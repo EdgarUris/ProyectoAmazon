@@ -1,4 +1,4 @@
-package org.itson.prueba.infraestructuraconexion;
+package infraestructuraconexion;
 
 
 import com.mongodb.ConnectionString;
