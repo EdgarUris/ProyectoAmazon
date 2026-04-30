@@ -15,6 +15,7 @@ import org.bson.codecs.pojo.PojoCodecProvider;
  *
  * @author EdgarUris
  * @author Jenifer Flores
+ * 
  */
 
 public class MongoConfig {
